@@ -1,6 +1,6 @@
 # Duck Sort Game 🦆
 
-Сортуй качок за кольорами.  
-Проєкт створено з використанням **React**, **TypeScript** та **Vite**.
+Sort the ducks by color.
+The project was created using **React**, **TypeScript** and **Vite**.
 
-[🎯 Перейти до демо](https://YaroslavKolesnyk.github.io/my-duck-game/)
+[🎯 Demo](https://YaroslavKolesnyk.github.io/my-duck-game/)
